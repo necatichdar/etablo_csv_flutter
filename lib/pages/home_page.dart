@@ -10,7 +10,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   List<List<dynamic>> _veriler = [];
   String _url =
-      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQuvNE3BhXmR7Utj6gfZH09PMF-QzB5qmW3l6jBpWo8EFsxi31d42lRrGhatfam3_Nvrg0wRgPYgHgU/pub?output=csv";
+      "https://docs.google.com/spreadsheets/.../pub?output=csv";
   bool isLoading = false;
 
   void csv_islemleri() async {
