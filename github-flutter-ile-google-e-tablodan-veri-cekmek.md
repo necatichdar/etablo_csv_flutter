@@ -85,9 +85,9 @@ Mar 20, 2021
 
 Mar 20, 2021
 
-[etablo\_csv]() [Flutter ile Google E-Tablodan Veri Çekmek]()
+[etablo\_csv](github-flutter-ile-google-e-tablodan-veri-cekmek.md#etablo_csv) [Flutter ile Google E-Tablodan Veri Çekmek](github-flutter-ile-google-e-tablodan-veri-cekmek.md#flutter-ile-google-e-tablodan-veri-çekmek)
 
-###  [README.md]()
+###  [README.md](github-flutter-ile-google-e-tablodan-veri-cekmek.md#readme)
 
 ## etablo\_csv
 
@@ -101,7 +101,7 @@ csv\_islemleri.mp4
 
 #### Resources
 
- [Readme]()
+ [Readme](github-flutter-ile-google-e-tablodan-veri-cekmek.md#readme)
 
 ###  [Releases](releases-1.md)
 
